@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/azotoweather/static/css/main.e4364eac.chunk.css",
+    "main.js": "/azotoweather/static/js/main.29833501.chunk.js",
+    "main.js.map": "/azotoweather/static/js/main.29833501.chunk.js.map",
+    "runtime-main.js": "/azotoweather/static/js/runtime-main.5be44da7.js",
+    "runtime-main.js.map": "/azotoweather/static/js/runtime-main.5be44da7.js.map",
+    "static/js/2.10b0ca7b.chunk.js": "/azotoweather/static/js/2.10b0ca7b.chunk.js",
+    "static/js/2.10b0ca7b.chunk.js.map": "/azotoweather/static/js/2.10b0ca7b.chunk.js.map",
+    "index.html": "/azotoweather/index.html",
+    "precache-manifest.fe76210fdb6ea0b0f7a9d1da96990047.js": "/azotoweather/precache-manifest.fe76210fdb6ea0b0f7a9d1da96990047.js",
+    "service-worker.js": "/azotoweather/service-worker.js",
+    "static/css/main.e4364eac.chunk.css.map": "/azotoweather/static/css/main.e4364eac.chunk.css.map",
+    "static/js/2.10b0ca7b.chunk.js.LICENSE.txt": "/azotoweather/static/js/2.10b0ca7b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/azotoweather/static/media/warm-bg.635ed87d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5be44da7.js",
+    "static/js/2.10b0ca7b.chunk.js",
+    "static/css/main.e4364eac.chunk.css",
+    "static/js/main.29833501.chunk.js"
+  ]
+}
